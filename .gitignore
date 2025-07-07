@@ -1,14 +1,8 @@
-
 __pycache__/
-
 venv311/
-
 env/
-
 .venv/
-
 .env
-
 rag_index/
-
 .DS_Store
+docs/
